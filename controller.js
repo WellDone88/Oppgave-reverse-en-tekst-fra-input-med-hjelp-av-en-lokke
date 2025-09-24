@@ -1,4 +1,4 @@
-//Har ikke bestemt meg helt for array enda, men vi får se. Rebecca tips under.
+//Har ikke bestemt meg helt for array enda, men vi får se. Rebecca tips under for å reversere teksten.
 function ReverseWord(){
     let reversedWords = "";
     Words = document.getElementById("inputWords").value;
