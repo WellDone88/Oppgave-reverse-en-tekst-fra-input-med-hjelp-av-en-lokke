@@ -1,3 +1,7 @@
 function ReverseWord(){
-    
+
+}
+
+function ShowMeResults(){
+
 }
