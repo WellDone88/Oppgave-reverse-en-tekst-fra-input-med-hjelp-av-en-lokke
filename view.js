@@ -13,5 +13,4 @@ function updateView(){
     
     
     `
-    return HTML;
 }

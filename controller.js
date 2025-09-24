@@ -8,5 +8,6 @@ for (let i = Words.length - 1; i >= 0; i--) {
   
 }
 
-document.getElementById("results").innerHTML += '<li>' + reversedWords + '</li>'; //La inn lister om man vil se flere ord
+//La inn lister om man vil se flere ord
+document.getElementById("results").innerHTML += '<li>' + reversedWords + '</li>'; 
 }
